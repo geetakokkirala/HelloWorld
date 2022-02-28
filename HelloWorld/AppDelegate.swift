@@ -13,7 +13,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+     
+        
+        // Git Status
+        // git add .
+        // git commit -m "meaning full messate"
+        // git push
+        print("Testing")
         return true
     }
 
