@@ -19,6 +19,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // git add .
         // git commit -m "meaning full messate"
         // git push
+        // git checkout -b  -> to create and switch to new branch
+        // git checkout brnachName  -> will switch to that brnach
+        
         print("Testing")
         return true
     }
